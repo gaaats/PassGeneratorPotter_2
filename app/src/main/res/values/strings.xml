@@ -1,10 +1,13 @@
 <resources>
-    <string name="app_name">PassGeneratorLord</string>
+    <string name="app_name">Pass Generator Potter</string>
     <string name="loading">Loading...</string>
     <string name="here_will_be_your_pass">here will be your password...\n Just press GENERATE</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="generate">generate</string>
+    <string name="settings_text">settings</string>
+    <string name="text_about">Create strong passwords with keywords from your favorite movie to protect your accounts. \n\nHarry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter student at Hogwarts School of Witchcraft and Wizardry. The main story arc concerns Harrys struggle against Lord Voldemort, a dark wizard who intends to become immortal, overthrow the wizard governing body known as the Ministry of Magic and subjugate all wizards and Muggles.</string>
+    <string name="music">music</string>
 
     <string-array name="diff_levels">
         <item>SIMPLE</item>
